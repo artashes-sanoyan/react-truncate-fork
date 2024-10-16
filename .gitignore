@@ -4,7 +4,6 @@ package-lock.json
 examples/*/pnpm-lock.yaml
 
 # build output
-dist
 lib
 
 # generated types
